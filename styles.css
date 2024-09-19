@@ -1,0 +1,46 @@
+html {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Calm_at_sea.jpg/640px-Calm_at_sea.jpg");
+}
+
+header {
+  text-align: center;
+}
+
+header h3 {
+  position: relative;
+  top: -15px;
+}
+section {
+  text-align: center;
+  position: fixed;
+}
+section div {
+  display: flex;
+  align-items: center;
+}
+
+.topColors div {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  min-width: 100px;
+}
+
+h5 {
+  width: 100%;
+  vertical-align: middle;
+}
+
+.white {
+  color: white;
+}
+
+.bottom-neutrals {
+  position: relative;
+  top: 15px;
+}
+
+.bottom-neutrals div {
+  width: 120px;
+  height: 100px;
+}
